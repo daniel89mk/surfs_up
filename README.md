@@ -5,9 +5,9 @@ He wants to know the temperature data for the months of June and December in Oah
 
 ## Results: 
 * 3 key differences in weather between June and December 
- * There is not much difference in the lowest temperature. June: 64 °F  vs December: 56 °F
- * There is not much difference in the highest temperature. June: 85 °F vs December: 83 °F
- * There is not much difference in the average temperature. June: 74.9 °F vs December 71 °F
+    * There is not much difference in the lowest temperature. June: 64 °F  vs December: 56 °F
+    * There is not much difference in the highest temperature. June: 85 °F vs December: 83 °F
+    * There is not much difference in the average temperature. June: 74.9 °F vs December 71 °F
 
 Let me show you the statistics: 
 
