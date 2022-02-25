@@ -11,7 +11,7 @@ He wants to know the temperature data for the months of June and December in Oah
 
 Let me show you the statistics: 
 
- * The Statistics for the month of June:
+* The Statistics for the month of June:
   * The average temperature would be 74.9 °F and the highest temperature would be 85 °F. 
   
    ![june_stats](june_stats.png)
